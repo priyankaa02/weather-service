@@ -8,6 +8,9 @@
     "build": "gulp scripts",
     "start": "node dist/index.js"
   },
+  "engines" : { 
+    "node" : ">=9.0.0 <=10.15.0" 
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
